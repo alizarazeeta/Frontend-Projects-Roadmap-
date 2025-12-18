@@ -6,6 +6,6 @@ Visi this link to view all the Projects: https://roadmap.sh/frontend/projects
 
 <p align="left">
   <a href='/Single-Page-CV/'>
-    <img width="48%" src="/assets/img/single-page-cv.png" alt="single page cv" />
+    <img width="48%" src="/img/single-page-cv.png" alt="single page cv" />
   </a>
 </p>
