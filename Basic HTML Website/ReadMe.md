@@ -1,4 +1,4 @@
-#Basic HTML Website
+# Basic HTML Website
 
 ---
 
@@ -31,4 +31,5 @@ You are not required to style the website, you are only required to create the s
 After completing this project, you will have a good understanding of how to structure a website using HTML, basic SEO meta tags, HTML tags, forms etc. You can now move on to the next project where you will learn how to style this website using CSS.
 
 ---
+
 
